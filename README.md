@@ -1,6 +1,6 @@
 # Network-portfolio
 
-Software: Jupyter Notebook
+Software: R
 
 Require: igraph
 

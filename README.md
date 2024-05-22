@@ -1,5 +1,12 @@
 # Network-portfolio
 
+```
+Author: 'Zijin Wang'
+
+Keywords: 'Network risk', 'Portfolio risk decomposition', 'Dantzig-type estimator', 'Portfolio optimization', 'High dimensions', 'Network portfolio'
+```
+
+
 Software: R
 
 Require: igraph
